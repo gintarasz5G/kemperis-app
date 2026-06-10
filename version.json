@@ -1,5 +1,5 @@
 {
-  "version": 3,
-  "apk_url": "https://github.com/gintarasz5G/kemperis-app/releases/download/v3/kemperis_v3.apk",
-  "notes": "v3 - offline SMS rezimas, background mode fix"
+  "version": 5,
+  "apk_url": "https://github.com/gintarasz5G/kemperis-app/releases/download/v5/kemperis_v5.apk",
+  "notes": "v5 - i18n LT/EN, pataisymai, nustatymų laukai offline"
 }
