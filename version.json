@@ -1,5 +1,5 @@
 {
-  "version": 7,
-  "apk_url": "https://github.com/gintarasz5G/kemperis-app/releases/download/v7/kemperis_v7.apk",
-  "notes": "v7 - Pataisytas APK diegimas (Android 14), update kortelė"
+  "version": 9,
+  "apk_url": "https://github.com/gintarasz5G/kemperis-app/releases/download/v9/kemperis_v9.apk",
+  "notes": "v9 - Pataisytas download broadcastas (RECEIVER_EXPORTED)"
 }
