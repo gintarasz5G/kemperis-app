@@ -1,0 +1,5 @@
+{
+  "version": 3,
+  "apk_url": "https://github.com/gintarasz5G/kemperis-app/releases/download/v3/kemperis_v3.apk",
+  "notes": "v3 - offline SMS rezimas, background mode fix"
+}
