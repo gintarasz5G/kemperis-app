@@ -1,5 +1,5 @@
 {
-  "version": 9,
-  "apk_url": "https://github.com/gintarasz5G/kemperis-app/releases/download/v9/kemperis_v9.apk",
-  "notes": "v9 - Pataisytas download broadcastas (RECEIVER_EXPORTED)"
+  "version": 10,
+  "apk_url": "https://github.com/gintarasz5G/kemperis-app/releases/download/v10/kemperis_v10.apk",
+  "notes": "v10 - Offline mode: Google Sheets duomenys + SMS komandos + kortu pilkinimas"
 }
