@@ -1,5 +1,5 @@
 {
-  "version": 6,
-  "apk_url": "https://github.com/gintarasz5G/kemperis-app/releases/download/v6/kemperis_v6.apk",
-  "notes": "v6 - Native ForegroundService (Android 14), bug fixes"
+  "version": 7,
+  "apk_url": "https://github.com/gintarasz5G/kemperis-app/releases/download/v7/kemperis_v7.apk",
+  "notes": "v7 - Pataisytas APK diegimas (Android 14), update kortelė"
 }
