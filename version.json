@@ -1,5 +1,5 @@
 {
-  "version": 10,
-  "apk_url": "https://github.com/gintarasz5G/kemperis-app/releases/download/v10/kemperis_v10.apk",
-  "notes": "v10 - Offline mode: Google Sheets duomenys + SMS komandos + kortu pilkinimas"
+  "version": 11,
+  "apk_url": "https://github.com/gintarasz5G/kemperis-app/releases/download/v11/kemperis_v11.apk",
+  "notes": "v11 - Žvejybos paruoštukas: 5 faktorių algoritmas (slėgis, tendencija, temperatūra, laikas); offline indikatorius visuose skirtukuose; datos+laiko žyma"
 }
