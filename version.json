@@ -1,5 +1,5 @@
 {
-  "version": 11,
-  "apk_url": "https://github.com/gintarasz5G/kemperis-app/releases/download/v11/kemperis_v11.apk",
-  "notes": "v11 - Žvejybos paruoštukas: 5 faktorių algoritmas (slėgis, tendencija, temperatūra, laikas); offline indikatorius visuose skirtukuose; datos+laiko žyma"
+  "version": 12,
+  "apk_url": "https://raw.githubusercontent.com/gintarasz5G/kemperis-app/main/app-release.apk",
+  "notes": "v12 Atnaujinimas:\n- ⚡ Force Live: Rankinis prisijungimas prie kemperio be laukimo.\n- 🗺️ Map view: Interaktyvus šios dienos maršruto vaizdavimas.\n- 📋 Auto-logger: Žurnalai dabar įsijungia automatiškai.\n- 🌡️ Dew Point: Kondensato rizikos stebėjimas realiu laiku.\n- 🔐 SMS Security: Papildoma savininko numerio patikra."
 }
